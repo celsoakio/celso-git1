@@ -58,6 +58,6 @@ Linux e Mac OS.
 
 Seu nome - [@SeuTwitter](htts://twitter.com/seuTwitter) - seuemail@gmail.com
 
-Distribuído sobre a licença. Vejam   `LICENÇA` para mais informações.
+Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
 
 [https://github.com/seuusuario/seuprojeto](https://github.com/seusario)
