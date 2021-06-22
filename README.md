@@ -57,5 +57,7 @@ Linux e Mac OS.
 ## Meta
 
 Seu nome - [@SeuTwitter](htts://twitter.com/seuTwitter) - seuemail@gmail.com
+
 Distribuído sobre a licença. Vejam   `LICENÇA` para mais informações.
+
 [https://github.com/seuusuario/seuprojeto](https://github.com/seusario)
